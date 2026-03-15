@@ -1,0 +1,4 @@
+BOT_TOKEN=токен_твоего_бота_от_@BotFather
+DATABASE_URL=sqlite+aiosqlite:///family_bot.db
+OPENAI_API_KEY=твой_ключ_openai_или_yandexgpt
+ADMIN_ID=твой_telegram_id
